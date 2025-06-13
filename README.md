@@ -1,0 +1,1 @@
+The **Job Portal** project is a web-based platform connecting job seekers and employers. Users can create profiles, search and apply for jobs, while employers can post job listings. It likely includes frontend and backend components for user interaction, authentication, and data management.
